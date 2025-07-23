@@ -48,7 +48,7 @@ export default function Contacto() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
               <Sparkles className="w-8 h-8 text-pink-500" />
-              <h1 className="text-2xl font-bold text-gray-900">Decoraciones Mágicas</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Entre Amigos & Party Events</h1>
             </div>
             <div className="hidden md:flex space-x-8">
               <Link href="/" className="text-gray-700 hover:text-pink-600 transition-colors">
@@ -244,8 +244,8 @@ export default function Contacto() {
                   <Phone className="w-5 h-5 text-pink-500 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Teléfono</p>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
-                    <p className="text-gray-600">+1 (555) 987-6543</p>
+                    <p className="text-gray-600">+51 990 015 179</p>
+                    <p className="text-gray-600">+51 975 661 055</p>
                   </div>
                 </div>
                 
@@ -253,8 +253,7 @@ export default function Contacto() {
                   <Mail className="w-5 h-5 text-pink-500 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Email</p>
-                    <p className="text-gray-600">info@decoracionesmagicas.com</p>
-                    <p className="text-gray-600">ventas@decoracionesmagicas.com</p>
+                    <p className="text-gray-600">entreamisos.partyevents@gmail.com</p>
                   </div>
                 </div>
                 
@@ -262,7 +261,7 @@ export default function Contacto() {
                   <MapPin className="w-5 h-5 text-pink-500 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Ubicación</p>
-                    <p className="text-gray-600">Ciudad de México</p>
+                    <p className="text-gray-600">Lima, Perú</p>
                     <p className="text-gray-600">Servicio a domicilio</p>
                   </div>
                 </div>
@@ -285,35 +284,28 @@ export default function Contacto() {
               
               <div className="space-y-4">
                 <a 
-                  href="#" 
+                  href="https://www.facebook.com/profile.php?id=100087543154967" 
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex items-center space-x-3 p-3 rounded-lg bg-gradient-to-r from-blue-50 to-blue-100 hover:from-blue-100 hover:to-blue-200 transition-all group"
                 >
                   <Facebook className="w-6 h-6 text-blue-600" />
                   <div>
                     <p className="font-medium text-gray-900 group-hover:text-blue-700">Facebook</p>
-                    <p className="text-sm text-gray-600">@decoracionesmagicas</p>
+                    <p className="text-sm text-gray-600">Entre Amigos & Party Events</p>
                   </div>
                 </a>
                 
                 <a 
-                  href="#" 
-                  className="flex items-center space-x-3 p-3 rounded-lg bg-gradient-to-r from-pink-50 to-purple-100 hover:from-pink-100 hover:to-purple-200 transition-all group"
-                >
-                  <Instagram className="w-6 h-6 text-pink-600" />
-                  <div>
-                    <p className="font-medium text-gray-900 group-hover:text-pink-700">Instagram</p>
-                    <p className="text-sm text-gray-600">@decoraciones_magicas</p>
-                  </div>
-                </a>
-                
-                <a 
-                  href="#" 
+                  href="https://wa.me/51990015179" 
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex items-center space-x-3 p-3 rounded-lg bg-gradient-to-r from-green-50 to-green-100 hover:from-green-100 hover:to-green-200 transition-all group"
                 >
                   <MessageCircle className="w-6 h-6 text-green-600" />
                   <div>
                     <p className="font-medium text-gray-900 group-hover:text-green-700">WhatsApp</p>
-                    <p className="text-sm text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-sm text-gray-600">+51 990 015 179</p>
                   </div>
                 </a>
               </div>
@@ -336,7 +328,7 @@ export default function Contacto() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Sparkles className="w-6 h-6 text-pink-500" />
-                <h5 className="text-xl font-bold">Decoraciones Mágicas</h5>
+                <h5 className="text-xl font-bold">Entre Amigos & Party Events</h5>
               </div>
               <p className="text-gray-400">Creando momentos inolvidables desde el corazón</p>
             </div>
@@ -361,7 +353,7 @@ export default function Contacto() {
           </div>
           
           <div className="mt-8 pt-8 border-t border-gray-800 text-center">
-            <p className="text-gray-400">© 2024 Decoraciones Mágicas. Todos los derechos reservados.</p>
+            <p className="text-gray-400">© 2024 Entre Amigos & Party Events. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>

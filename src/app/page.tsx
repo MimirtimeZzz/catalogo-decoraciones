@@ -10,7 +10,7 @@ export default function Inicio() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
               <Sparkles className="w-8 h-8 text-pink-500" />
-              <h1 className="text-2xl font-bold text-gray-900">Decoraciones Mágicas</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Entre Amigos & Party Events</h1>
             </div>
             <div className="hidden md:flex space-x-8">
               <Link href="/" className="text-pink-600 font-semibold hover:text-pink-700 transition-colors">
@@ -92,7 +92,7 @@ export default function Inicio() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Sparkles className="w-6 h-6 text-pink-500" />
-                <h5 className="text-xl font-bold">Decoraciones Mágicas</h5>
+                <h5 className="text-xl font-bold">Entre Amigos & Party Events</h5>
               </div>
               <p className="text-gray-400">Creando momentos inolvidables desde el corazón</p>
             </div>
@@ -117,7 +117,7 @@ export default function Inicio() {
           </div>
           
           <div className="mt-8 pt-8 border-t border-gray-800 text-center">
-            <p className="text-gray-400">© 2024 Decoraciones Mágicas. Todos los derechos reservados.</p>
+            <p className="text-gray-400">© 2024 Entre Amigos & Party Events. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
